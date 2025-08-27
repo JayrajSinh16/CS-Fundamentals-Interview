@@ -30,18 +30,18 @@ Comprehensive, interview-focused guide covering REST API concepts, design patter
 - [Authentication Methods](./authentication.md)
 - [JWT & Token-Based Auth](./jwt-tokens.md)
 - [OAuth 2.0](./oauth2.md)
-- [API Security Best Practices](./api-security.md)
+- [API Security Best Practices](./security-best-practices.md)
 - [CORS Handling](./cors.md)
 
 ## Best Practices & Design Patterns
 - [Idempotency](./idempotency.md)
-- [Pagination Techniques](./pagination.md)
+- [Pagination Techniques](./pagination-strategies.md)
 - [Filtering & Sorting](./filtering-sorting.md)
 - [Error Handling Patterns](./error-handling.md)
 - [Rate Limiting](./rate-limiting.md)
 
 ## Advanced Topics
-- [Caching Strategies](./caching.md)
+- [Caching Strategies](./caching-performance.md)
 - [Webhooks](./webhooks.md)
 - [Long Polling vs WebSockets vs SSE](./real-time-communication.md)
 - [API Gateway](./api-gateway.md)
