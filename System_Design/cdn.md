@@ -973,4 +973,25 @@ cache_headers = {
 
 ---
 
+## 🔗 Related Topics
+
+### Components Section
+- [Load Balancers](./load-balancers.md) - Global load balancing and traffic distribution
+- [API Gateway](./api-gateway.md) - Single entry point and caching strategies
+- [Reverse Proxy](./reverse-proxy.md) - Proxy patterns and request forwarding
+- [Caching Strategies](./caching-strategies.md) - Multi-level caching approaches
+
+### Caching & Performance
+- [Cache Systems](./cache-systems.md) - In-memory and distributed caching
+- [Cache Invalidation](./cache-invalidation.md) - Cache consistency strategies
+- [Performance Metrics](./performance-metrics.md) - Monitoring and optimization
+
+### Security & Infrastructure
+- [DDoS Protection](./ddos-protection.md) - Edge-level attack mitigation
+- [Monitoring & Alerting](./monitoring-alerting.md) - Real-time performance tracking
+
 **Key Takeaway**: CDNs are essential for global content delivery, providing improved performance, reduced latency, and better user experience. Proper implementation requires careful consideration of caching strategies, performance monitoring, and security measures.
+
+---
+
+[← Back to Main Guide](./README.md) | [← Previous: API Gateway](./api-gateway.md) | [Next: Caching Strategies →](./caching-strategies.md)

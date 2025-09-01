@@ -527,4 +527,21 @@ class UserService:
 
 ---
 
+## 🔗 Related Topics
+
+### Database Section
+- [Database Replication](./database-replication.md) - Master-slave and master-master replication strategies
+- [Sharding Strategies](./sharding-strategies.md) - Horizontal partitioning for scalability
+- [ACID vs BASE](./acid-vs-base.md) - Transaction models comparison
+- [Database Federation](./database-federation.md) - Distributed database architectures
+
+### Related System Design Concepts
+- [CAP Theorem](./cap-theorem.md) - Consistency, Availability, Partition tolerance trade-offs
+- [Consistency Patterns](./consistency-patterns.md) - Strong vs eventual consistency models
+- [Performance Metrics](./performance-metrics.md) - Database performance monitoring
+
 **Key Takeaway**: There's no one-size-fits-all database solution. Choose based on your specific requirements for consistency, scalability, query complexity, and data relationships. Many successful systems use multiple database types (polyglot persistence) to optimize for different use cases.
+
+---
+
+[← Back to Main Guide](./README.md) | [← Previous: Message Queues](./message-queues.md) | [Next: Database Replication →](./database-replication.md)

@@ -394,3 +394,6 @@ graph TD
 ---
 
 **Key Takeaway**: CAP Theorem forces you to make explicit trade-offs. The best choice depends on your specific use case and business requirements.
+
+---
+[← Back to Main Guide](./README.md) | [← Previous: Performance Metrics](./performance-metrics.md) | [Next: Consistency Patterns →](./consistency-patterns.md)

@@ -604,3 +604,6 @@ class ConsistencyFallback:
 ---
 
 **Key Takeaway**: Choose consistency patterns based on your specific requirements. Strong consistency provides guarantees but limits availability, while eventual consistency offers high availability at the cost of temporary inconsistencies. Design your system to handle the chosen consistency model gracefully.
+
+---
+[← Back to Main Guide](./README.md) | [← Previous: CAP Theorem](./cap-theorem.md) | [Next: Load Balancers →](./load-balancers.md)

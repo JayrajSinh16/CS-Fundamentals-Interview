@@ -499,3 +499,6 @@ graph TD
 ---
 
 **Key Takeaway**: Reliability and availability are achieved through deliberate design choices, not accidents. Plan for failure, measure everything, and continuously improve based on real-world data.
+
+---
+[← Back to Main Guide](./README.md) | [← Previous: Scalability](./scalability.md) | [Next: Performance Metrics →](./performance-metrics.md)

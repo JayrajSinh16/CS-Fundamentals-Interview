@@ -1273,4 +1273,21 @@ async def demo_eventual_consistency():
 
 ---
 
+## 🔗 Related Topics
+
+### Database Section
+- [SQL vs NoSQL](./sql-vs-nosql.md) - Database types and their consistency models
+- [Database Replication](./database-replication.md) - Replication strategies and consistency
+- [Sharding Strategies](./sharding-strategies.md) - Horizontal partitioning approaches
+- [Database Federation](./database-federation.md) - Distributed database architectures
+
+### Related System Design Concepts
+- [CAP Theorem](./cap-theorem.md) - Consistency, Availability, Partition tolerance trade-offs
+- [Consistency Patterns](./consistency-patterns.md) - Strong vs eventual consistency models
+- [Distributed Tracing](./distributed-tracing.md) - Monitoring distributed transactions
+
 **Key Takeaway**: ACID properties provide strong consistency and reliability for traditional databases but can limit scalability. BASE properties trade consistency guarantees for better availability and partition tolerance in distributed systems. Choose based on your application's requirements for consistency vs. availability.
+
+---
+
+[← Back to Main Guide](./README.md) | [← Previous: Sharding Strategies](./sharding-strategies.md) | [Next: Database Federation →](./database-federation.md)

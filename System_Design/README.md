@@ -58,6 +58,29 @@ Welcome to the comprehensive System Design interview preparation guide! This rep
 - [Monitoring & Alerting](monitoring-alerting.md) - Observability
 - [Encryption](encryption.md) - Data security at rest and in transit
 
+## 📖 Specialized Section Guides
+
+### 🔐 [Security & Monitoring Guide](security-README.md)
+Complete guide to authentication, DDoS protection, encryption, and rate limiting
+- JWT and OAuth implementation
+- Multi-layer DDoS defense strategies
+- Encryption at rest and in transit
+- Advanced rate limiting algorithms
+
+### ⚡ [Stream Processing Guide](stream-processing-README.md)
+Real-time data processing and event-driven architectures
+- Apache Flink, Storm, and Kafka Streams
+- Stream joins and windowing operations
+- Real-time analytics and monitoring
+- Fault tolerance and performance optimization
+
+### 🏗️ [System Designs Guide](system-designs-README.md)
+Comprehensive case studies of major tech platforms
+- LinkedIn, Twitter, and Uber architectures
+- Scalability patterns and design decisions
+- Real-world implementation examples
+- Interview-focused system design approaches
+
 ## 🏆 Famous System Designs
 
 ### Social Media & Communication

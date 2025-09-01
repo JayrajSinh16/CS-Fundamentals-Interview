@@ -540,3 +540,6 @@ server {
 ---
 
 **Key Takeaway**: Load balancers are critical for building scalable, highly available systems. Choose the right algorithm and type based on your specific requirements and traffic patterns.
+
+---
+[← Back to Main Guide](./README.md) | [← Previous: Consistency Patterns](./consistency-patterns.md) | [Next: Reverse Proxy →](./reverse-proxy.md)

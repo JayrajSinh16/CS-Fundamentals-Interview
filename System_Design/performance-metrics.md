@@ -590,3 +590,6 @@ async def fetch_url(session, url):
 ---
 
 **Key Takeaway**: Performance metrics provide the foundation for building scalable systems. Monitor what matters, set realistic targets, and continuously optimize based on real-world data.
+
+---
+[← Back to Main Guide](./README.md) | [← Previous: Reliability & Availability](./reliability-availability.md) | [Next: CAP Theorem →](./cap-theorem.md)

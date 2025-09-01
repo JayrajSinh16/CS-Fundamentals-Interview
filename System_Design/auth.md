@@ -1209,6 +1209,25 @@ if __name__ == "__main__":
 
 ---
 
+## 🔗 Related Topics
+
+### Security & Monitoring Section
+- [**📖 Security Guide**](./security-README.md) - Complete security implementation guide
+- [**DDoS Protection**](./ddos-protection.md) - Multi-layer attack defense strategies
+- [**Encryption Systems**](./encryption.md) - Data encryption at rest and in transit
+- [**Rate Limiting**](./rate-limiting.md) - Request throttling and quota management
+
+### System Architecture Integration
+- [**API Gateway**](./api-gateway.md) - Centralized authentication enforcement
+- [**Microservices**](./microservices.md) - Service-to-service authentication
+- [**Load Balancers**](./load-balancers.md) - SSL termination and certificate management
+- [**Monitoring & Alerting**](./monitoring-alerting.md) - Security event tracking
+
+### Related Implementation Patterns
+- [**Service Discovery**](./service-discovery.md) - Secure service registration
+- [**Circuit Breaker**](./circuit-breaker.md) - Authentication service protection
+- [**Database Federation**](./database-federation.md) - Distributed user data management
+
 **Key Features:**
 - **Multiple Authentication Methods**: Password, MFA (TOTP), OAuth 2.0, API keys
 - **JWT Token Management**: Access and refresh tokens with proper expiration
@@ -1217,4 +1236,6 @@ if __name__ == "__main__":
 - **Security Hardening**: Rate limiting, account lockout, password policies
 - **OAuth 2.0 Implementation**: Authorization code flow with proper client validation
 
-**Related:** See [Rate Limiting](rate-limiting.md) for API protection and [Monitoring & Alerting](monitoring-alerting.md) for security event tracking.
+---
+
+[← Back to Security Guide](./security-README.md) | [← Back to Main Guide](./README.md) | [Next: DDoS Protection →](./ddos-protection.md)

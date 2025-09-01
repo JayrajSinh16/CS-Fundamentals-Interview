@@ -885,4 +885,25 @@ class MetricsCollector:
 
 ---
 
+## 🔗 Related Topics
+
+### Components Section
+- [Load Balancers](./load-balancers.md) - Distribution algorithms and health checking
+- [Reverse Proxy](./reverse-proxy.md) - Proxy patterns and request forwarding
+- [Service Discovery](./service-discovery.md) - Dynamic service registration and discovery
+- [Circuit Breaker](./circuit-breaker.md) - Fault tolerance patterns
+
+### Security & Monitoring
+- [Authentication](./auth.md) - JWT, OAuth, and authentication strategies
+- [Rate Limiting](./rate-limiting.md) - Request throttling and quota management
+- [Monitoring & Alerting](./monitoring-alerting.md) - Observability and metrics
+
+### Architecture Patterns
+- [Microservices](./microservices.md) - Microservices architecture fundamentals
+- [Service Mesh](./service-mesh.md) - Advanced service-to-service communication
+
 **Key Takeaway**: API Gateway serves as the single entry point for microservices, handling routing, authentication, rate limiting, load balancing, and cross-cutting concerns. It simplifies client interactions while providing centralized control over API traffic, security, and monitoring.
+
+---
+
+[← Back to Main Guide](./README.md) | [← Previous: Load Balancers](./load-balancers.md) | [Next: Reverse Proxy →](./reverse-proxy.md)

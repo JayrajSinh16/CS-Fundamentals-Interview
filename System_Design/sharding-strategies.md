@@ -1121,4 +1121,21 @@ class ShardMonitor:
 
 ---
 
+## 🔗 Related Topics
+
+### Database Section
+- [SQL vs NoSQL](./sql-vs-nosql.md) - Database types comparison and selection criteria
+- [Database Replication](./database-replication.md) - Master-slave and master-master replication
+- [ACID vs BASE](./acid-vs-base.md) - Transaction models comparison
+- [Database Federation](./database-federation.md) - Distributed database architectures
+
+### Related System Design Concepts
+- [Consistency Patterns](./consistency-patterns.md) - Strong vs eventual consistency models
+- [Load Balancers](./load-balancers.md) - Distributing traffic across shards
+- [Performance Metrics](./performance-metrics.md) - Database performance monitoring
+
 **Key Takeaway**: Database sharding requires careful planning of sharding strategies, robust routing mechanisms, and comprehensive monitoring. Choose sharding strategy based on data access patterns, implement proper shard management for adding/removing shards, and maintain monitoring for performance and health. Consider the trade-offs between query complexity and scalability benefits.
+
+---
+
+[← Back to Main Guide](./README.md) | [← Previous: Database Replication](./database-replication.md) | [Next: ACID vs BASE →](./acid-vs-base.md)

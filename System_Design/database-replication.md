@@ -1096,4 +1096,21 @@ SHARDING_CONFIG = {
 
 ---
 
+## 🔗 Related Topics
+
+### Database Section
+- [SQL vs NoSQL](./sql-vs-nosql.md) - Database types comparison and selection criteria
+- [Sharding Strategies](./sharding-strategies.md) - Horizontal partitioning for scalability
+- [ACID vs BASE](./acid-vs-base.md) - Transaction models comparison
+- [Database Federation](./database-federation.md) - Distributed database architectures
+
+### Related System Design Concepts
+- [Consistency Patterns](./consistency-patterns.md) - Strong vs eventual consistency models
+- [Load Balancers](./load-balancers.md) - Distributing traffic across replicas
+- [Performance Metrics](./performance-metrics.md) - Database performance monitoring
+
 **Key Takeaway**: Database replication and sharding are essential for scaling relational databases. Replication provides high availability and read scalability, while sharding enables horizontal scaling for writes. Proper monitoring, automated failover, and careful shard key selection are critical for success.
+
+---
+
+[← Back to Main Guide](./README.md) | [← Previous: SQL vs NoSQL](./sql-vs-nosql.md) | [Next: Sharding Strategies →](./sharding-strategies.md)
