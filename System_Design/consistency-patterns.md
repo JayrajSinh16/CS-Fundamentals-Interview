@@ -157,11 +157,11 @@ The system will become consistent over time, given that no new updates are made 
 #### Vector Clocks
 ```mermaid
 graph TD
-    A[Node A: V[A:1, B:0, C:0]] --> B[Update Event]
-    B --> C[Node A: V[A:2, B:0, C:0]]
+    A["Node A: V(A:1, B:0, C:0)"] --> B[Update Event]
+    B --> C["Node A: V(A:2, B:0, C:0)"]
     
-    D[Node B: V[A:1, B:1, C:0]] --> E[Sync with A]
-    E --> F[Node B: V[A:2, B:1, C:0]]
+    D["Node B: V(A:1, B:1, C:0)"] --> E[Sync with A]
+    E --> F["Node B: V(A:2, B:1, C:0)"]
     
     style C fill:#ccffcc
     style F fill:#ccffcc
